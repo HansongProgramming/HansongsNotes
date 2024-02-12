@@ -1,0 +1,68 @@
+[[Business Projects]] | [[Etsy Documentation]]
+# Task List:
+- [ ] Target niche 
+	- [ ] Create Templates
+		- [ ] Mobile Phone Presentation set
+			- [ ] Phone (Light)
+			- [ ] Phone (Dark)
+			- [ ] Phone Mockup
+			- [ ] Usage PDF
+		- [ ]  Law Themed Presentation set
+			- [ ] Law 3D Assets
+			- [ ] Law 2D Assets
+			- [ ] Law 2D x 3D 
+			- [ ] Law textual
+			- [ ] Usage PDF
+		- [ ] Product Presentation set
+			- [ ] Beverage Template
+			- [ ] Food Template
+			- [ ] T-Shirt Template
+			- [ ] Logo Showcase Template
+			- [ ] Usage PDF
+		- [ ] User Interface Stylized set
+			- [ ] Social-media themed (Netflix)
+			- [ ] Social-media themed (Instagram)
+			- [ ] Windows 10/ 11 themed presentation
+			- [ ] Mac OS themed Presentation
+			- [ ] Customized User Interface 
+			- [ ] Usage PDF
+		- [ ] Statistic Presentation Set
+			- [ ] Graphs style 1
+			- [ ] Graphs style 2
+			- [ ] Graphs style 3
+			- [ ] Graphs style 4
+			- [ ] Graphs style 5
+			- [ ] Usage PDF
+		- [ ] Japanese Presentation set
+			- [ ] Japanese themed 1
+			- [ ] Japanese themed 2
+			- [ ] Japanese themed 3
+		- [ ] Cutie Presentation set
+			- [ ] Pink-Lavender themed 
+			- [ ] Pastel themed
+			- [ ] Cat themed
+			- [ ] Dog themed
+		- [ ] Pixel Presentation set
+			- [ ] Gamified Template
+			- [ ] Pixel Interface template
+			- [ ] Pixel Environment template (cities)
+			- [ ] Pixel Environment template (nature)
+		- [ ] Information Technology and Computer Science set
+			- [ ] Code themed presentation (Light)
+			- [ ] Code themed presentation (Dark)
+			- [ ] Hacker theme
+			- [ ] Analog Devices theme
+		- [ ] Business Presentation set
+			- [ ] Business report 
+			- [ ] Design thinking
+			- [ ] Portfolio 
+			- [ ] Product Pitch 
+			- [ ] Modern report 
+			- [ ] Minimalist report
+- [ ] Create documentation
+	- [ ] Learning Sheet
+- [ ] Create download website
+	- [ ] HTML page
+	- [ ] CSS styling
+	- [ ] JS functionalities on downloading
+	- [ ] additional securities

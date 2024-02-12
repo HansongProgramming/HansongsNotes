@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b32f8d0010bbac8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9094b4e11f1fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c48a06b91943d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACADEMIC JOURNAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e35398f415bf93f",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c92dc8c0ad286a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb3ec55545a39be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83d5194e2b0459dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "242bd038590b17b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0afc2acf2b217439",
+    "type": "split",
+    "children": [
+      {
+        "id": "1757f5687068e4f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67f7b3c54b88cd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ACADEMIC JOURNAL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d724ebc90fcd19a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ACADEMIC JOURNAL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e762e6b3cfd580e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "023847bb14da814b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ACADEMIC JOURNAL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3c48a06b91943d2",
+  "lastOpenFiles": [
+    "Untitled",
+    "UNIT 2.md",
+    "SCI.md",
+    "UNIT 3.md",
+    "UNIT 1.md",
+    "HANSONG'S REFLECTION.md",
+    "Business Projects.md",
+    "Etsy Online Shop.md",
+    "Etsy Documentation.md",
+    "Untitled.canvas",
+    "Developer Projects.md",
+    "2024-02-08.md",
+    "Personal life.md",
+    "Physical Projects.md",
+    "Love life.md",
+    "Art Projects.md",
+    "Lover's Journal.md",
+    "Projects for Augnina.md",
+    "ACADEMIC JOURNAL.md",
+    "Academic life.md",
+    "SOCSCI.md",
+    "CIT15.md",
+    "CIT3.md",
+    "CC19.md",
+    "CC18.md",
+    "CC14.md",
+    "HANSONG'S SECOND BRAIN.md",
+    "Pasted image 20240128204727.png"
+  ]
+}
