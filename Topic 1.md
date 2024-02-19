@@ -1,0 +1,120 @@
+# SOCIOLOGICAL PERSPECTIVES: (HENSLIN,2010)
+
+- "Systematic Study of human society"
+- Seeing the general in particular (Peter Berger 1963)
+- realize that society guides our thoughts and deeds
+- see the social context
+- reveals power of society in shaping us
+- C. Wright Mills: sociological imagination
+- Assess the truth of common sense
+- assess opportunities and constraints
+- empowers individuals to be active participants in our society
+
+- ## Functionalism
+	- Views society as whole unit (interrelated parts that work together)
+	- when all parts of society fulfill functions, society reaches equilibrium
+	- examines smaller parts to see functions and dysfunctions to see relation to larger units
+- ### Conflict theory
+	- society is composed of groups that compete for scarce resources
+- ## Feminist perspective
+	- Women are systematically oppressed
+	- institutionalization of patriarchy
+		- Sexual differences are related to differences in male/female character, behavior, and ability justifying gendered division
+		- social roles and inequality in access to rewards positions, and privilege 
+	- Aims to locate sites of social inequalities and highlight the participation of women in different aspects of social life
+- ## Symbolic interaction
+	- society is composed of symbols to establish meaning, develop views of the world, and communicate with one another
+	- labels we learn affect the way we perceive things
+	- **Selective perception**
+		- they lead us to see certain things that blind us to others, shaking off evidence that don't fit
+# Ethnic Groups and Minorities (Giddens, 1994):
+- ## Ethnicity 
+	- Cultural practices and outlooks that distinguish given community of people, language, history, ancestry (real or imagined), religion, and styles of dress / adornment (wholly learned)
+- ## Culture
+	- set of distinctive spiritual, material, intellectual, and emotional features of society. encompasses not only art and literature, but lifestyles ways of living, value systems, traditions, beliefs (UNESCO) 
+- ## Minority Group
+	- Requirement 1: 
+		- Members are disadvantaged from discrimination (opportunities are denied by other people)
+	- Requirement 2:
+		- Members have sense of group solidarity
+		- subject of same prejudice
+		- common loyalty
+		- sees themselves as the people apart from the majority
+	- Requirement 3:
+		- Degree physically and socially isolated from larger community
+		- concentrated in certain neighborhoods cities or regions of a country
+		- little intermarriage between in majority and members of minority
+- ## Indigenous People (the politically correct term for minority ethnic groups)
+	- Descendants of the original people/ occupants of lands before being conquered by others. 
+	- 370 million indigenous people around the world that contribute to linguistic diversity (UNESCO)
+- ## The UNDRIPS adopted Martinez Cobo’s “working definition” of indigenous people
+	- Indigenous communities have been around since before outsiders came.
+	- They see themselves as different from the dominant groups now.
+	- Indigenous communities are not the most powerful in society.
+	- They want to keep their land, culture, and identity for the future.
+	- They have their own ways of life, rules, and systems.
+	- An indigenous person identifies as part of these communities and is accepted by them.
+	- Indigenous communities can decide who belongs without outside interference.
+- ## Indigenous Cultural Communities / indigenous people
+	- A group of people or societies who call themselves and are called by others a certain name (RA 8371).
+	- They have lived together in a defined area for a long time.
+	- They claim ownership of their land since ancient times and have used it.
+	- They share a language, customs, traditions, and other cultural traits.
+	- They have kept their identity despite colonization and outside influences.
+	- This also includes people who are considered indigenous because they descend from those who lived in the country before colonization or major cultural changes (RA 8371).
+	- They have their own social, economic, cultural, and political systems, even if they have been forced to leave their original lands or have resettled elsewhere (RA 8371).
+- # Marginalization
+	- Controls people's traditionally exercise over their local societies are taken from them, such that their remaining autonomy of action does not conflict with the wider system (Eder, 1993)
+	- "removing the horns of a deer"
+- # Deculturation 
+	- Restriction of social relations, little or no cultural replacement and few new cultural forms developing from local sources of technological and economic growth (Eder, 1993)
+- # Ethnic Antagonism, Prejudice, and Discrimination (Giddens, 1994)
+	- ## Prejudice
+		- Opinions or attitudes held by members of one group about another
+		- preconceived views about an individual or group
+		- usually based on hearsay rather than direct evidence
+		- resistant to change in face of new info
+	- ## Discrimination
+		- Behavior towards another
+		- activities that disqualify members of one group from opportunities open to others
+		- (Gate Keeping)
+- # Attitudes of majority groups 
+	- ### Marton (cited in Giddens 1994) identified four possible attitudes of the dominant groups towards minority groups
+		- ### All-Weather liberals
+			- Unprejudiced towards minorities, avoids discrimination, even when personally costly like job loss or physical attack
+		- ### Fair-weather liberals
+			- Considers themselves as unprejudiced, but will bend when costs are involved
+		- ### Timid bigots
+			- holds prejudice against minorities, because of legal and financial pressure / interests 
+			- acting in an egalitarian way
+		- ### Active bigot
+			- holds strong prejudice, practices discrimination against them
+	- ## Historical Perspectives on the Correlation between Colonialism and Racism (Giddens, 1994)
+		- In European culture, white and black were symbols of purity and evil, respectively, with black associated with death and disaster.
+		- These symbols influenced Europeans' initial reactions to black people when they were first encountered in Africa, although such extreme attitudes have mostly disappeared today.
+		- The concept of 'race' as a cluster of inherited characteristics originated in European thought of the 18th and 19th centuries.
+		- Count Joseph Arthur de Gobineau proposed three races: white, black, and yellow, with the white race considered superior in intelligence, morality, and willpower.
+		- Gobineau argued that black people were the least capable, with animal-like nature, lack of morality, and emotional instability.
+		- Rudyard Kipling's poem "The White Man's Burden" popularized the justification for White imperialism.
+		- In 1913, German scientist Dr. Eugen Fischer published results from South-West Africa, concluding that mixed-race individuals were superior to pure Africans but inferior to pure whites.
+		- Fischer's arguments influenced Hitler's views on the superiority of the Aryan Race in "Mein Kampf."
+		- Racism helped justify colonial rule over non-white people and the denial of political rights to them, contrasting with the rights won by whites in Europe.
+		- Racism played a significant role in the group closure, where Europeans were the rulers and non-whites were the ruled.
+	- ## Global patterns of intergroup relations (henslin 2010)
+		- ### Genocide
+			- Dominant group tries to destroy the minority group; systematic killing of one category of people by another
+			- Ethnic cleansing, policy of eliminating a population, including forcible expulsion and genocide
+		- ### Population Transfer
+			- indirect transfer is achieved by making life so miserable for members of a minority that they leave voluntarily; direct transfer occurs when a dominant group expels a minority
+		- ### Internal Colonialism
+			- Dominant group exploits minority groups for economic advantage, manipulates social institutions to suppress minorities and deny from access to society benefits.
+		- ### Segregation
+			- Separation of racial or ethnic groups; allows dominant group to maintain social distance from minority and yet to exploit their labor as menial workers
+		- ### Assimilation 
+			- process where a minority is absorbed into mainstream culture, forced assimilation (refusing of allowing minority to practice culture)
+			- allows the minority to adopt the dominant group's patterns in its own way and at its own speed
+		- Multiculturalism
+			- permits or even encourages racial-ethnic variation
+			- maintains separate identities and participates freely in country's social institutes from educ to politics 
+
+# - END OF TOPIC 1-

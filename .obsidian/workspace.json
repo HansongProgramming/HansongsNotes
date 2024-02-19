@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACADEMIC JOURNAL.md",
+                "file": "1.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACADEMIC JOURNAL.md",
+                "file": "1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACADEMIC JOURNAL.md",
+                "file": "1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACADEMIC JOURNAL.md"
+                "file": "1.1.md"
               }
             }
           }
@@ -148,11 +148,20 @@
   },
   "active": "f3c48a06b91943d2",
   "lastOpenFiles": [
-    "Untitled",
     "UNIT 2.md",
+    "SOCSCI.md",
+    "ACADEMIC JOURNAL.md",
+    "Topic 3.md",
+    "Topic 2.md",
+    "Topic 1.md",
+    "Pasted image 20240219125201.png",
+    "1.1.md",
+    "CC19.md",
     "SCI.md",
     "UNIT 3.md",
     "UNIT 1.md",
+    "README.md",
+    "Untitled",
     "HANSONG'S REFLECTION.md",
     "Business Projects.md",
     "Etsy Online Shop.md",
@@ -166,15 +175,8 @@
     "Art Projects.md",
     "Lover's Journal.md",
     "Projects for Augnina.md",
-    "ACADEMIC JOURNAL.md",
     "Academic life.md",
-    "SOCSCI.md",
     "CIT15.md",
-    "CIT3.md",
-    "CC19.md",
-    "CC18.md",
-    "CC14.md",
-    "HANSONG'S SECOND BRAIN.md",
     "Pasted image 20240128204727.png"
   ]
 }
