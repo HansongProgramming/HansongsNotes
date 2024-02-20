@@ -1,0 +1,97 @@
+# Definition of Ethics
+- practical science of the morality of human actions
+- scientific inquiry into principles of morality
+- science of human acts with reference to right an wrong
+- study of human conduct from the standpoint of morality
+- study of the rectitude of human conduce
+- investigation of life
+- regarding right and wrong behavior
+- "Moral principle that govern a person's or group's behavior"
+- "branch of knowledge that deals with moral principles"
+## Terms associated with ethics
+- Science - "systematic study or system of scientific conclusions clearly demonstrated, derived early from clearly established principles and duly coordinated"
+- morality - "quality of right or wrong in human acts"
+- Human acts - acts done with knowledge and consent
+- virtues - habits that inclines us to do what is acceptable
+- vices - habits that incline us to do what is unacceptable
+- value system - complex system of moral values by which one chooses to live
+## Relationship of ethics with other science
+- ### logic
+	- "science of right thinking"
+	- Ethics is the science of right living
+- ### psychology
+	- "studies how man behaves"
+	- Ethics studies how man ought to behave
+- ### sociology
+	- "includes social order"
+	- Ethics deals with moral order
+- ### art
+	- "stands for beauty"
+	- Ethics stand for moral goodness
+		- "But as transcendental, the beautiful and the good are ONE. Evil always implies ugliness or defects and the good is always beautiful since it is the very object of desire and therefore like beauty, pleases when percieved"
+- ### politics
+	- "Aim at good government for the temporal welfare of the citizens"
+	- often become dirty, reason is precisely because it is divorced from ethics
+- ### education
+	- Education develops the whole man, moral, intellectual, and physical capacities.
+# Morality and other Phases of life
+- ### Morality and law
+	- Intimately related
+	- "legal" only covers the external acts of man
+	- "moral" involves the internal acts of man such as volitional and the intentional activities of the will and mind
+- ### Ethics and religion
+	- "closest phase of life related to ethics"
+	- "existence of creator"
+	- "freedom of will in man"
+	- "immorality"
+	- Both have same end "to attain man's supreme purpose of man's ultimate end"
+	- prescribes the same means for attaining goal of man "right living"
+	- "some would divorce morality from religion, but religion is the root without which the plant of morality will die"
+# Importance of ethics
+- "Ethics is an indispensable knowledge, without moral perception, man is only an animal. without morality, man as rational being is a failure"
+- moral integrity is the only true measure of what man ought to be
+- morality is the foundation of every human society, every culture admits the importance of morality as a standard of behavior
+- Integrity is a cornerstone of ethical behavior
+	- Acts in accordance with personal code of principles
+	- extend to all people the same respect and consideration that you desire
+	- apply same moral standards in all situations
+# Modifiers of Human act
+- things that may affect human acts in the essential qualities of knowledge, freedom, voluntariness, and so make them less perfectly human
+- factors that influence a man's inner disposition towards certain actions
+- they affect the mental or emotional state of a person to the extent that the voluntariness involved in an act is either increased or decreased
+- ## Ignorance
+	- absence of intellectual knowledge which a person ought to possess. in realm of morals, everyone of age and reason is expected to know at least the general norms of good behavior
+	- ### Vincible Ignorance (Conquerable) 
+		- can easily be reminded through ordinary diligence and reasonable efforts
+			- Affected ignorance "category" of vincible ignorance in which a person keeps by positive efforts in order to escape responsibility or blame, intentionally and wills in maintaining ignorance
+	- ### Invincible Ignorance (Unconquerable)
+		- type where a person possess without being aware of it, or having awareness of it, lacks the means to rectify it
+			- ex: person acts without realizing certain facts
+- ## Concupiscence / Passion
+	- Tendencies towards desirable objects, or tendencies away from undesirable or harmful things
+	- called positive emotions; latter is the negative emotions
+	- positive emotions : love, desire, delight, hope, bravery
+	- negative emotions: hatred, horror, sadness, despair, fear, anger
+- ## Fear
+	- Shrinking back of the mind from danger. It is the agitation of mind brought about by the apprehension of impending evil
+	- distinction is made between an act done with fear and and act done out of fear.
+	- Acts done with fear (embarking on long journey, being left alone in a strange place, being asked to speak before a group of people)
+	- Acts done out of fear (Child reads book out of fear from mother, employee volunteers to avoid getting fired, stopping smoking from fear of cancer)
+- ## Habit
+	- Lasting readiness and facility born of frequently repeated acts, for acting in a certain manner
+	- habits are acquired inclinations towards something to be done
+	- they assume the role of a second nature, moving one who has them to perform certain acts with relative ease
+- ## Violence
+	- external force applied by a free cause for the purpose of compelling a person to perform an act which is against his will
+	- physical force exerted on a person by another free agent for the purpose of compelling said person to act against his will
+	- bodily torture, maltreatment, isolation, and mutilation are examples of violence
+# Ethics Vs Law
+- Law - systematic body of rules that governs whole society, and the actions of its individual members
+- Ethics - branch of moral philosophy that guides people about basic human conduct
+## More than RIGHT and WRONG
+- Students frequently equate ethical with legal, Often sees a situation in black and white.
+- Ethical decision making and information technology (1993)
+- Legal / ethical
+- not legal / ethical
+- legal / not ethical
+- not legal / not ethical

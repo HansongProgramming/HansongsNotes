@@ -1,0 +1,24 @@
+- The history of science involves understanding the relationships between facts, indicating continuity or breaks with the past.
+- Science's development involves considering the process by which it comes into being, including various stages of development.
+- Personalities of scientists can be important in understanding how they reached their conclusions.
+- Science not only deals with facts but also with the dissemination and adoption of results within the scientific community.
+- Sumerian civilization contributed cuneiform writing, the first known writing system, around 3500-3000 BCE.
+- Uruk is considered the first true city, credited with the origin of writing, architectural work, the ziggurat, and the cylinder seal.
+- The Great Ziggurat of Ur was a pyramidal stepped temple tower characteristic of Mesopotamian cities from approximately 2200 to 500 BCE.
+- Babylonians are known for their astronomical observations and the association of astronomy with religion.
+- Babylonian calendars were more accurate due to advancements in astronomy and math, enabling predictions of eclipses.
+- The Hanging Gardens of Babylon, though not proven to exist, are legendary for their beauty and design.
+- Egyptians excelled in metallurgy, especially gold, and were skilled in creating figurines and extravagant gold creations.
+- Egyptian cosmetics, like kohl, were used for protection against eye ailments and as a form of beautification.
+- Papyrus, a plant used for various purposes, was significant in ancient Egypt, particularly for writing.
+- The Greeks invented the alarm clock, the crane, and the codex (bound book), changing the way books were created and stored.
+- Aristotle's "History of Animals" had a lasting impact on zoologists by categorizing animals based on their traits.
+- The Romans advanced architecture by introducing new methods like columns and arches, enabling construction of larger buildings.
+- The Islamic Golden Age saw advancements in science and mathematics, including the development of the scientific method by Ibn al-Haytham.
+- Medieval Europe experienced scientific advancement despite the dark ages, with monastic studies preserving scientific processes.
+- The Renaissance marked a period of "rebirth" in art, trade, exploration, religion, and thinking, leading to breakthroughs in the scientific revolution.
+- Johannes Gutenberg's movable printing press revolutionized book production, aiding in the dissemination of knowledge.
+- The Scientific Revolution of the 16th and 17th centuries transformed views of nature with developments in mathematics, physics, astronomy, biology, and chemistry.
+- The Industrial Revolution in the late 18th and early 19th centuries led to major industrialization and innovation, advancing science and technology significantly.
+- In the 20th century, science saw radical developments in physics, biology, and astronomy, with breakthroughs such as penicillin, DNA structure, and the Hubble Space Telescope.
+- The Philippines made notable contributions despite being considered a developing country, such as the sing-along system, microprocessor chips, and the incubator.

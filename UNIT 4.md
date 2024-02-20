@@ -1,0 +1,30 @@
+- Science and Technology have flourished worldwide throughout history, significantly contributing to nation-building.
+- The advancement of science greatly influences a nation's socioeconomic growth, closely related to modernity and essential for quick growth and advancement.
+- The impact of science and technology on Philippine society is highlighted, showcasing government programs, projects, and policies.
+- **Scientific Applications:**
+  - Planting crops and raising animals for labor and food.
+  - Predicting seasons, climates, and establishing calendars through celestial observations.
+  - Soil preparation, medicinal plant uses, building houses, irrigation, and tool development for planting, hunting, cooking, fishing, tribal conflicts, war, transportation, and musical instruments.
+- Various archaeological artifacts found in the Philippines demonstrate significant influence from the Metal Age, with contributions to creating tools seen in intricate patterns of gold and silver jewelry, pottery, and metal tools.
+- Trade with neighboring nations like China, Indonesia, and Japan impacted Filipino life, offering numerous cultural and technical exchanges.
+- **Spanish Colonization (1565-1898):**
+  - Life became more modernized with Western technologies changing living standards.
+  - Establishment of schools, including the School of Science and Technology, started formal science and technology in the country.
+  - Scientific studies focused on the human body, plants, animals, and heavenly bodies, while technology focused on utilizing and creating household tools.
+- **American Colonization (1899-1946):**
+  - Established public education system, modern research universities, improved engineering, public hospitals, transportation, and communication systems.
+  - Science education in basic education focused on natural studies, science, and sanitation, later known as "Science."
+  - Higher education in science became more modernized and improved, conducting research to combat diseases like malaria, cholera, and tuberculosis.
+- **Post-World War II:**
+  - War greatly halted scientific and technological development, leading to destruction and death, submerging progress.
+  - Limited resources focused on rebuilding institutions and public facilities like schools, hospitals, and transportation systems.
+- **Progress After Independence:**
+  - Slow due to limited resources, but government efforts in science, technology, and human resource development paved the way for progress.
+  - Challenges remain in improving the quality of science education.
+- **Government Programs, Projects, and Policies:**
+  - Aim to prepare the country and its people to meet the demands of a technologically driven world.
+  - Include the National Research Council of the Philippines and various policies and programs aimed at improving competitiveness in the ASEAN region.
+- **Indigenous Science and Contributions:**
+  - Indigenous peoples in the Philippines practiced various forms of indigenous knowledge, including predicting weather, using herbal medicine, and building local irrigation systems.
+  - Indigenous science is guided by culture and community values, incorporating science process skills and community values into their practices.
+  - Indigenous science contributes to the advancement of science and technology in the Philippines, aiding people in navigating daily life and understanding the natural world.

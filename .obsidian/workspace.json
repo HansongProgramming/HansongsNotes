@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1.md",
-                "mode": "source",
+                "file": "Mod1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.1.md",
+                "file": "Mod1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.1.md",
+                "file": "Mod1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1.md"
+                "file": "Mod1.md"
               }
             }
           }
@@ -148,35 +148,35 @@
   },
   "active": "f3c48a06b91943d2",
   "lastOpenFiles": [
+    "CC18.md",
+    "3.1.md",
+    "CC19.md",
+    "3.2.md",
+    "2.2.md",
+    "2.1.md",
+    "1.2.md",
+    "1.1.md",
+    "Mod3.md",
+    "Mod2.md",
+    "Mod1.md",
+    "Pasted image 20240219125201.png",
+    "UNIT 6.md",
     "UNIT 2.md",
-    "SOCSCI.md",
+    "UNIT 4.md",
+    "UNIT 3.md",
+    "UNIT 1.md",
     "ACADEMIC JOURNAL.md",
+    "SCI.md",
+    "SOCSCI.md",
     "Topic 3.md",
     "Topic 2.md",
     "Topic 1.md",
-    "Pasted image 20240219125201.png",
-    "1.1.md",
-    "CC19.md",
-    "SCI.md",
-    "UNIT 3.md",
-    "UNIT 1.md",
     "README.md",
     "Untitled",
     "HANSONG'S REFLECTION.md",
     "Business Projects.md",
     "Etsy Online Shop.md",
-    "Etsy Documentation.md",
     "Untitled.canvas",
-    "Developer Projects.md",
-    "2024-02-08.md",
-    "Personal life.md",
-    "Physical Projects.md",
-    "Love life.md",
-    "Art Projects.md",
-    "Lover's Journal.md",
-    "Projects for Augnina.md",
-    "Academic life.md",
-    "CIT15.md",
     "Pasted image 20240128204727.png"
   ]
 }
